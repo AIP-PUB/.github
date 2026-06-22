@@ -122,7 +122,7 @@ ACPs-community/
 
 ## 7. 更多文档
 
-> 见 `ACPs-community/acps-docs`
+> 见 [`ACPs-community/acps-docs`](https://github.com/AIP-PUB/ACPs-community/tree/main/acps-docs)
 
 ## 8. Demos
 
