@@ -177,7 +177,7 @@ The leader agent assists with tasks, interacts with users, and coordinates multi
 - Partner agent examples: See `ACPs-community/demo-partner`
 This includes five specialized agents responsible for Beijing urban attractions, Beijing suburban attractions, Beijing food recommendations, nationwide hotel arrangements, and nationwide transportation arrangements. Under the coordination of the leader agent, these five specialized agents collaborate through the ACPs protocol to complete a comprehensive Beijing travel itinerary planning and recommendation task.
 
-9. Additional Notes
+## 9. Additional Notes
 This project introduces the Agent Collaboration Protocols (ACPs), a protocol suite for large-scale agent interconnection and collaboration, proposed and initially defined by the Agent Interconnection Research Group of the School of Artificial Intelligence at Beijing University of Posts and Telecommunications (Jun Liu, Ke Li, Keliang Chen, Ke Yu, Xiaofeng Hu, and Di Ma).
 
 ACPs is developed from the perspective that agent interconnection will become a critical network infrastructure in the future. It attempts to provide new ideas and approaches for the robust development of agent interconnection from a more comprehensive and global perspective.
