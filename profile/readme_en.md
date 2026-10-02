@@ -162,7 +162,7 @@ To help developers get started quickly, we provide two detailed guides. Develope
 - [GettingStarted](https://github.com/AIP-PUB/ACPs-community/blob/main/acps-docs/getting-started/README.md)
 Agent Platform Development Guide — intended for developers building agent interconnection platforms and integrating the ACPs protocol. It guides developers through platform-level development and configuration.
 
-- [Tutorials](https://github.com/AIP-PUB/ACPs-community/blob/main/acps-docs/tutorials/agent-development.md)
+- [Tutorials](https://github.com/AIP-PUB/ACPs-community/blob/main/acps-docs/tutorials/agent-development_en.md)
 Agent Integration Tutorials — provide guidance on connecting individual agents to ACPs, helping developers build agents compliant with the ACPs specifications and quickly integrate them with the ACPs ecosystem.
 
 ## 7. More Documentation
